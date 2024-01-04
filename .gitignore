@@ -1,0 +1,5 @@
+# lock file
+Gemfile.lock
+
+# env files
+.env
